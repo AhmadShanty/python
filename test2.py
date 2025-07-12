@@ -1,1 +1,1 @@
-print("ahmad teez")
+print("ahmad x2 teez")
